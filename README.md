@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinod Kumar Puttamadegowda
 
-Welcome to my GitHub profile! I am a Full Stack Software Engineer with over 4 years of experience in building scalable and efficient applications. I specialize in both frontend and backend development, with a passion for optimizing performance, enhancing security, and leveraging cloud services.
+Welcome to my GitHub profile! I am a Software Engineer with over 5 years of experience in building scalable and efficient applications. I specialize in both frontend and backend development, with a passion for optimizing performance, enhancing security, and leveraging cloud services.
 
 ## 🚀 My Projects
 
