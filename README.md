@@ -1,45 +1,65 @@
 # 👋 Hi, I'm Vinod Kumar Puttamadegowda
 
-Java Developer with 4+ years of experience designing RESTful APIs and developing secure, scalable applications using Spring Boot, SQL, React, and AWS in microservices architecture. I'm passionate about clean architecture, well-tested code, and building tools that work at scale.
+Java Developer with 4+ years of experience designing RESTful APIs and developing secure, scalable applications using Spring Boot, SQL, React, and AWS in microservices architecture. I'm passionate about clean architecture, well-tested code, and building tools that work at scale.    
+<br>
 
 ## 🚀 Featured Projects
 
-### [Java Expense 8 Puzzle Solver - AI Search Algorithms](https://github.com/vinodpgowda/Java-8-puzzle-solver-AI)
-AI-powered solver for a modified 8-puzzle problem where each tile has an associated cost. Implements BFS, DFS, UCS, and A* to find optimal paths. Designed with clean Java code, testable architecture, and extensible search logic.
+### 🔍 [Java Expense 8 Puzzle Solver – AI Search Algorithms](https://github.com/vinodpgowda/Java-8-puzzle-solver-AI)
+Implements AI search techniques (BFS, DFS, UCS, A*) to solve a cost-based 8-puzzle. Designed with clean Java code, testable architecture, and extensible search logic.
 
-### [Metropolitan City Transportation Database System](https://github.com/harshitha-ravi/database_systems)
-Designed and implemented a relational database for a city transportation network using Oracle DB. Features EER modeling, schema normalization, and advanced SQL queries for business insights into routes, schedules, and optimization strategies.
+### 🛣️ [City Transportation Database System](https://github.com/harshitha-ravi/city-transportation-database-system)
+Designs a relational database for city transport using Oracle DB. Covers EER modeling, normalization, and advanced SQL queries for route planning and optimization.
 
-### [Table Tennis Score Keeper](https://github.com/vinodpgowda/score-keeper)
-A lightweight scorekeeping web app for table tennis games. Features a clean, responsive UI and is instantly usable via its [live site](https://vinodpgowda.github.io/score-keeper/), deployed with GitHub Pages.
+### 🏓 [Table Tennis Score Keeper](https://github.com/vinodpgowda/score-keeper) · [Live Site](https://vinodpgowda.github.io/score-keeper/)
+Tracks scores in real time with a simple and responsive UI. Built with vanilla JS, HTML, CSS and deployed via GitHub Pages.
 
-### [Portfolio Website](https://github.com/vinodpgowda/portfolio)
-Minimal, responsive portfolio site to showcase projects and skills. Built with HTML, CSS, and JavaScript and is [live](https://vinodpgowda.github.io/portfolio/) on GitHub Pages for easy access.
-
-
-## 🛠️ Technologies & Tools
-- **Backend:** Java, Spring Boot, Microservices, Kafka
-- **Frontend:** React, JavaScript, TypeScript, HTML, CSS
-- **Databases:** SQL, PostgreSQL, MongoDB
-- **Cloud & DevOps:** AWS, Docker, Kubernetes, Jenkins, Git
-- **AI:** AI Search Algorithms, Generative AI, LLM, RAG
+### 🌐 [Portfolio Website](https://github.com/vinodpgowda/portfolio-website) · [Live Site](https://vinodpgowda.github.io/portfolio/)
+Minimal, responsive portfolio site to showcase my profile, projects and skills.  
+<br>
 
 
 ## 🌱 What I'm Currently Learning
 - **Spring Boot Microservices:** Enhancing expertise in building scalable and distributed systems.
 - **Cloud Architecture:** Focusing on AWS for deployment and infrastructure management.
-- **Generative AI:** Exploring applications of LLMs in real-world problem-solving.
+- **Generative AI:** Exploring applications of LLMs in real-world problem-solving.  
+<br>
 
-## 👨‍💻 My Journey
-I started my career in software engineering with a focus on backend development and database systems. Over the years, I’ve expanded into **AI applications** and **cloud computing**, driven by a passion for problem-solving and innovation. I aim to build impactful solutions that bridge traditional and emerging technologies.
+## 🛠️ Tech Stack
 
-## 📫 How to Reach Me
-- **Email:** vinodkputtamadegowda@gmail.com
-- **LinkedIn:** [Vinod Kumar](https://www.linkedin.com/in/vinodpgowda)
-- **GitHub:** [vinodpgowda](https://github.com/vinodpgowda)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=stackshare&logoColor=white" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+</p>
+<br>
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:vinodkputtamadegowda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vinodpgowda">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/vinodpgowda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+<br>
 
 ## 📊 GitHub Stats
-![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinodpgowda&show_icons=true&theme=radical)
 
-## 🌟 My Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodpgowda&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodpgowda&layout=compact&theme=radical)
+![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinodpgowda&show_icons=true&theme=radical)
