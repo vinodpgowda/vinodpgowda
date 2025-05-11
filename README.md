@@ -5,8 +5,8 @@ Java Developer with 4+ years of experience designing RESTful APIs and developing
 
 ## 🚀 Featured Projects
 
-### 🔍 [Java Expense 8 Puzzle Solver – AI Search Algorithms](https://github.com/vinodpgowda/Java-8-puzzle-solver-AI)
-Implements AI search techniques (BFS, DFS, UCS, A*) to solve a cost-based 8-puzzle. Designed with clean Java code, testable architecture, and extensible search logic.
+### 🔍 [Expense 8 Puzzle Solver – AI Search Algorithms](https://github.com/vinodpgowda/AI-8-puzzle-solver)
+Implements AI search techniques (BFS, DFS, UCS, A*) to solve a cost-based 8-puzzle in Java. Designed with clean Java code, testable architecture, and extensible search logic.
 
 ### 🛣️ [City Transportation Database System](https://github.com/harshitha-ravi/city-transportation-database-system)
 Designs a relational database for city transport using Oracle DB. Covers EER modeling, normalization, and advanced SQL queries for route planning and optimization.
