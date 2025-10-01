@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Vinod Kumar Puttamadegowda
 
-Java Developer with 4+ years of experience designing RESTful APIs and developing secure, scalable applications using Spring Boot, SQL, React, and AWS in microservices architecture. I'm passionate about clean architecture, well-tested code, and building tools that work at scale.    
+Software Engineer II at DigitalOcean, working on Cloud Object Storage and Distributed Systems.
+
 <br>
 
 ## 🚀 Featured Projects
@@ -20,8 +21,6 @@ Minimal, responsive portfolio site to showcase my profile, projects and skills.
 
 
 ## 🌱 What I'm Currently Learning
-- **Spring Boot Microservices:** Enhancing expertise in building scalable and distributed systems.
-- **Cloud Architecture:** Focusing on AWS for deployment and infrastructure management.
 - **Generative AI:** Exploring applications of LLMs in real-world problem-solving.  
 <br>
 
@@ -33,11 +32,11 @@ Minimal, responsive portfolio site to showcase my profile, projects and skills.
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=stackshare&logoColor=white" alt="Microservices"/>
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/>
+  <!-- <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit"/> -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <!-- <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Generative%20AI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
